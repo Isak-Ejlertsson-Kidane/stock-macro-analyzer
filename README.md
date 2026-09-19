@@ -97,7 +97,7 @@ the API is unavailable and repeat runs are instant.
 
 ## Files
 
-| File | |
+| File | What it holds |
 |---|---|
 | `project.py` | `main` plus seventeen functions: fetching, caching, alignment, analysis, report |
 | `test_project.py` | 16 tests covering all ten pure functions, expected values worked out by hand |
